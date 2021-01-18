@@ -1,2 +1,3 @@
 Nicolas: Hello ! Welcome to the Machine Learning class
 Hadjer : Hi everyone ! I hope you enjoy the course !
+Hadjer : Good luck !! 
